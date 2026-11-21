@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ZombieBunker3D" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">#050811</item>
+        <item name="android:statusBarColor">#050811</item>
+        <item name="android:navigationBarColor">#050811</item>
+    </style>
+</resources>
